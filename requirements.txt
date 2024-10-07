@@ -1,0 +1,4 @@
+argparse
+pysaml2
+cryptography
+pybase64
